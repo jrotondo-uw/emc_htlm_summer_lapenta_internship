@@ -30,6 +30,8 @@ This repository contains code, configuration files, and analysis tools developed
 
 ## Usage
 
+You must have the jedi-bundle downloaded. Currently, access to JCSDA-internal is required to obtain the OOPS C++ coding framework necessary for HTLM generation. Once these are achieved, update the YAML files with the proper ensemble members of interest and then run the following shell scripts (and change the python code appropriately) to generate the HTLM forecasts.
+
 To generate HTLM coefficients:
 
 ```
