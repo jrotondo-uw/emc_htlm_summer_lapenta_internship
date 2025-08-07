@@ -52,7 +52,7 @@ python Python/tlm_htlm_correlation_and_rmse_comparison_by_vertical_level.py
 
 ## Project Context
 
-This work was conducted as part of the NOAA Lapenta Internship Program. It is a collaboration between the Environmental Modeling Center (EMC) and the Joint Effort for Data assimilation Integration (JEDI) team. The project investigates the development and application of HTLMs for use in hybrid 4D-EnVar systems.
+This work was conducted as part of the NOAA Lapenta Internship Program. It is a collaboration between the Environmental Modeling Center (EMC) and the Joint Effort for Data assimilation Integration (JEDI) team. The project investigates the development and application of HTLMs for use in hybrid 4D-EnVar systems, particularly the Global Forecast System (GFS).
 
 ## Contact
 
